@@ -1,5 +1,6 @@
 // Obtain the img element, and assign it to the image variable
-let image 
+let image
+
 
 // Obtain the 'shrink-grow' button, and assign it to the changeSize variable
 let changeSize 
